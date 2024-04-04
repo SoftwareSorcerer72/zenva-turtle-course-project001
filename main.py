@@ -1,7 +1,11 @@
 from turtle import *
 
-circle(50)
+color("#42f557")
 forward(100)
-circle(50)
+color("#42a1f5")
+forward(100)
+right(90)
+forward(100)
+
 
 done()
