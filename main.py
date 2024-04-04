@@ -1,16 +1,10 @@
 from turtle import *
 
 color("green")
-circle(25)
-penup()
-forward(50)
-pendown()
+circle(100)
 color("red")
-circle(25)
-penup()
-forward(50)
-pendown()
+circle(60)
 color("purple")
-circle(25)
+circle(30)
 
 done()
