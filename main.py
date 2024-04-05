@@ -18,6 +18,8 @@ from turtle import *
 # Draw circle 30 px
 # End
 
+#Code flow chart below
+#https://www.codediagram.io/app/shares?token=3f4955dd
 speed(0)
 
 bgcolor("black")
